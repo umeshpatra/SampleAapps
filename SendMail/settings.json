@@ -1,0 +1,11 @@
+{
+  // ensure that you have enabled the "less secure app" as "ON" if using google account
+  "body": "Hello, This is Email sending test using gmail.",
+  "emailFromAddress": "umeshpatra@gmail.com",
+  "emailToAddress": "umeshpatra@gmail.com",
+  "enableSSL": "true",
+  "password": "umesh20patra",
+  "portNumber": "587",
+  "smtpAddress": "smtp.gmail.com",
+  "subject": "Hello"
+}
